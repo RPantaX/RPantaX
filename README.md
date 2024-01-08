@@ -10,7 +10,7 @@
 
 I am a computer and informatics student, I am looking for my first job placement.
 
-I have 2 years developing java desktop and web applications. But in the last year I have dedicated myself to develop web applications in spring boot. Applying design patterns: MVC, REST API and microservices. I also develop the front-end part with REACT, so I know how to consume APIS.
+I have 2 years developing java desktop and web applications. But in the last year I have dedicated myself to develop web applications in spring boot. Applying design patterns: MVC and REST API. I also develop the front-end part with REACT.
 
 I consider that I have the necessary knowledge as a junior java developer to start with my first work experience.
 
