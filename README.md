@@ -1,6 +1,6 @@
 # Hi, your welcome to my profile 🙋‍♂️ 
 
-### Jr full-stack Java (spring boot) developer
+### Jr full-stack Java developer
 
 
 <div align="center">
